@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [27/Oct/2019:16:37:22 +0300] "GET /phoneshop-servlet-api HTTP/1.1" 302 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [27/Oct/2019:16:37:24 +0300] "GET /phoneshop-servlet-api/ HTTP/1.1" 302 - http-bio-8080-exec-3 1257
+0:0:0:0:0:0:0:1 - - [27/Oct/2019:16:37:24 +0300] "GET /phoneshop-servlet-api/products HTTP/1.1" 200 5660 http-bio-8080-exec-4 899
+0:0:0:0:0:0:0:1 - - [27/Oct/2019:16:37:25 +0300] "GET /phoneshop-servlet-api/styles/main.css HTTP/1.1" 200 527 http-bio-8080-exec-5 14
+0:0:0:0:0:0:0:1 - - [27/Oct/2019:16:37:25 +0300] "GET /phoneshop-servlet-api/images/logo.svg HTTP/1.1" 200 6128 http-bio-8080-exec-1 43
+0:0:0:0:0:0:0:1 - - [27/Oct/2019:16:37:26 +0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [27/Oct/2019:19:32:22 +0300] "GET /phoneshop-servlet-api/products HTTP/1.1" 200 5660 http-bio-8080-exec-2 319
+0:0:0:0:0:0:0:1 - - [27/Oct/2019:19:32:22 +0300] "GET /phoneshop-servlet-api/products HTTP/1.1" 200 5660 http-bio-8080-exec-1 319
+0:0:0:0:0:0:0:1 - - [27/Oct/2019:19:32:22 +0300] "GET /phoneshop-servlet-api/styles/main.css HTTP/1.1" 200 527 http-bio-8080-exec-4 5
+127.0.0.1 - - [27/Oct/2019:19:32:22 +0300] "GET /phoneshop-servlet-api/images/logo.svg HTTP/1.1" 200 6128 http-bio-8080-exec-3 13
